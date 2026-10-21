@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  background-color: #EDF2F4;
+  color: #000000; 
+}
+header {
+  background-color: #2b2d42;
+  color: #ffffff; 
+}
+header span {
+  font-size: 36px;
+}
+.add-button {
+  background-color: #ef233c;
+   font-size: 40px;
+  width: 40px;
+  color: #ffffff;
+  height: 40px;
+}
+footer {
+  background-color: #F4F5F6 ;
+  font-size: 16px;
+  text-align: center;
+}
