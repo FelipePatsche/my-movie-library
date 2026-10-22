@@ -19,12 +19,14 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 26px 20px;
+  text-decoration: none;
 }
 header span {
   font-size: 36px;
 }
 header a{
   text-decoration: none;
+  color: inherit;
 }
 
 .add-button {
