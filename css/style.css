@@ -86,6 +86,7 @@ footer {
   row-gap: 40px;
   flex-wrap: wrap;
   column-gap: 60px;
+  justify-content: center;
 }
 main{
   flex-grow: 1;
